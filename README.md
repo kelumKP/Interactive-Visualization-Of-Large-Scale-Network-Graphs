@@ -1,0 +1,2 @@
+# Interactive-Visualization-Of-Large-Scale-Network-Graphs
+This is my GSoC 2015 Project , This project (Idea 2-Idea 2: Javascript Component For Interactive Visualization Of Large-Scale Network Graphs) will center around the development of additional optimization techniques to enable interactive visualization of very large networks, as well as new interactive graph features, including node/edge selection/addition/removal and node/edge styling
